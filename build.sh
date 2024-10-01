@@ -1,0 +1,1 @@
+docker build -t akioioj:20241001 .
